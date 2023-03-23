@@ -9,6 +9,8 @@ public class Boundary
 
 public class PlayerController : MonoBehaviour {
 
+    // variable are here
+
     public float speed = 1.0f;
     public float tilt;
     public Boundary boundary;
